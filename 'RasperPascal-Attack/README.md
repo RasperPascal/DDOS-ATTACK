@@ -8,21 +8,20 @@
 # R.P-attack ![](https://img.shields.io/badge/Version-3.8-brightgreen.svg) ![](https://img.shields.io/badge/license-GPLv2-blue.svg)
  A script for using socks4/5 proxies to attack http(s) server.
 
- News:
-- [x] Added Output Indicator
-- [x] Added Url Parser
+ Eklenen Çıkış Göstergesi
+ URL Ayrıştırıcı Eklendi
+Bilgi:
 
- Info:
-- [x] Using Python3
-- [x] Added more human-like options
-- [x] Http Get/Head/Post/Slow Flood
-- [x] Random Http Header/Data
-- [x] Socks4/5 Proxies Downloader
-- [x] Socks4/5 Proxies Checker
-- [x] Customize Cookies
-- [x] Customize Post Data 
-- [x] Support HTTPS
-- [x] Support Socks4/5
+ - [x] Python3'ü kullanma
+ - [x] Daha fazla insan benzeri seçenekler eklendi
+ - [x] Http Get/Head/Post/Slow Flood
+ - [x] Rastgele Http Başlığı/Veri
+ - [x]Socks4/5 Proxy İndiricisi
+ - [x] Socks4/5 Proxy Denetleyicisi
+ - [x] Çerezleri Özelleştir
+ - [x] Gönderi Verilerini Özelleştir
+ - [x] HTTPS'yi destekleyin
+ - [x]Destek Çorapları4/5
 
 ## Showcase
 
