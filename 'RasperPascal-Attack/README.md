@@ -16,7 +16,7 @@ Bilgi:
  - [x] Daha fazla insan benzeri seçenekler eklendi
  - [x] Http Get/Head/Post/Slow Flood
  - [x] Rastgele Http Başlığı/Veri
- - [x]Socks4/5 Proxy İndiricisi
+ - [x] Socks4/5 Proxy İndiricisi
  - [x] Socks4/5 Proxy Denetleyicisi
  - [x] Çerezleri Özelleştir
  - [x] Gönderi Verilerini Özelleştir
