@@ -5,7 +5,7 @@
      CC/////  CC/////   | ddos tool |/ 
       CCCCC/   CCCCC/   |___________|/
 
-# CC-attack ![](https://img.shields.io/badge/Version-3.8-brightgreen.svg) ![](https://img.shields.io/badge/license-GPLv2-blue.svg)
+# R.P-attack ![](https://img.shields.io/badge/Version-3.8-brightgreen.svg) ![](https://img.shields.io/badge/license-GPLv2-blue.svg)
  A script for using socks4/5 proxies to attack http(s) server.
 
  News:
