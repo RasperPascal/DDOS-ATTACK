@@ -30,15 +30,15 @@
 
 ## Install
 
-  pip3 install requests pysocks
- git clone 
-ls
- cd CC-attack
-cd "Rasperpascal-Attack"
-ls
-chmod +x * 
-ls
-python3 cc.py
+            pip3 install requests pysocks
+            git clone 
+            ls
+            cd CC-attack
+            cd "Rasperpascal-Attack"
+            ls
+            chmod +x * 
+            ls
+            python3 cc.py
 
 ## Usage
 
