@@ -30,13 +30,11 @@
 
 ## Install
 
-            pip3 install requests pysocks
-            git clone 
+            pip3 install requests pysocks 
             ls
-            cd CC-attack
+            cd DDOS-ATTACK
+            ls
             cd "Rasperpascal-Attack"
-            ls
-            chmod +x * 
             ls
             python3 cc.py
 
