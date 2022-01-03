@@ -21,7 +21,7 @@ Bilgi:
  - [x] Çerezleri Özelleştir
  - [x] Gönderi Verilerini Özelleştir
  - [x] HTTPS'yi destekleyin
- - [x]Destek Çorapları4/5
+ - [x] Destek Çorapları4/5
 
 ## Vitrin
 
