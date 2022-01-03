@@ -1,5 +1,5 @@
        /////    /////    /////////////
-      CCCCC/   CCCCC/   | CC-attack |/
+      CCCCC/   CCCCC/   |R.P-attack |/
      CC/      CC/       |-----------|/ 
      CC/      CC/       |  Layer 7  |/ 
      CC/////  CC/////   | ddos tool |/ 
