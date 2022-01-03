@@ -30,13 +30,13 @@
 
 ## Install
 
-        - [x] pip3 install requests pysocks 
-        - [x] ls
-        - [x] cd DDOS-ATTACK
-        - [x] ls
-        - [x] cd "Rasperpascal-Attack"
-        - [x] ls
-        - [x] python3 cc.py
+      - [x] pip3 install requests pysocks 
+      - [x] ls
+      - [x] cd DDOS-ATTACK
+      - [x] ls
+      - [x] cd "Rasperpascal-Attack"
+      - [x] ls
+      - [x] python3 cc.py
 
 ## Usage
 
