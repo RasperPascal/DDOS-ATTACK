@@ -6,10 +6,10 @@
       CCCCC/   CCCCC/   |___________|/
 
 # R.P-attack ![](https://img.shields.io/badge/Version-3.8-brightgreen.svg) ![](https://img.shields.io/badge/license-GPLv2-blue.svg)
- A script for using socks4/5 proxies to attack http(s) server.
-
- Eklenen Çıkış Göstergesi
- URL Ayrıştırıcı Eklendi
+ http(s) sunucusuna saldırmak için çorap4/5 proxy'lerini kullanmak için bir komut dosyası.
+ 
+- [x] Eklenen Çıkış Göstergesi
+- [x] URL Ayrıştırıcı Eklendi
 Bilgi:
 
  - [x] Python3'ü kullanma
@@ -23,7 +23,7 @@ Bilgi:
  - [x] HTTPS'yi destekleyin
  - [x]Destek Çorapları4/5
 
-## Showcase
+## Vitrin
 
 ![](https://i.imgur.com/hXGBnkB.png)
 
@@ -37,7 +37,7 @@ Bilgi:
    - [x] ls
    - [x] python3 cc.py
 
-## Usage
+## kullanım
 
     python3 cc.py
     
